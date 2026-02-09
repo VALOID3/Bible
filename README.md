@@ -67,8 +67,8 @@ El núcleo del proyecto es una base de datos relacional en **SQL Server** altame
 
 ## 👥 Equipo de Desarrollo
 
-* **José Armando Hernández Santander** - *Diseño de BD & Backend SQL*
-* **Andrea Berenice Reyna Gutiérrez** - *Frontend & Lógica C#*
+* **José Armando Hernández Santander** - *Full Stack Developer*
+* **Andrea Berenice Reyna Gutiérrez** - *Full Stack Developer*
 
 ---
 
