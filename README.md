@@ -52,9 +52,9 @@ El núcleo del proyecto es una base de datos relacional en **SQL Server** altame
 
 ## 📸 Capturas de Pantalla
 
-| Login | Consulta Bíblica |
+| Login y Registro | Consulta Bíblica |
 |:---:|:---:|
-| <img src="ruta/a/tu/imagen_login.png" width="400"> | <img src="ruta/a/tu/imagen_consulta.png" width="400"> |
+| ![Login](./Img_Interfaz/4.jpg) ![Registro](./Img_Interfaz/6.jpg) | <img src="ruta/a/tu/imagen_consulta.png" width="400"> |
 
 | Búsqueda Avanzada | Gestión de Perfil |
 |:---:|:---:|
