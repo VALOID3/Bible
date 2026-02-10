@@ -42,23 +42,20 @@ El núcleo del proyecto es una base de datos relacional en **SQL Server** altame
 
 * **Normalización:** Base de datos estructurada en **3FN** para evitar redundancia (tablas separadas para `Géneros`, `Estatus`, `HistorialContraseñas`).
 * **Stored Procedures:** Toda la interacción (INSERT, UPDATE, DELETE, SELECT) se realiza mediante procedimientos almacenados para seguridad y rendimiento.
-* **Triggers (Disparadores):** Implementación de triggers para:
     * Validar reglas de negocio antes de insertar.
     * Automatizar el historial de cambios de contraseña.
     * Gestionar bajas lógicas de usuarios.
-* **Vistas:** Abstracción de datos complejos para reportes de usuario y estadísticas de uso.
-
 ---
 
 ## 📸 Capturas de Pantalla
 
 | Login y Registro | Consulta Bíblica |
 |:---:|:---:|
-| ![Login](./Img_Interfaz/4.jpg) ![Registro](./Img_Interfaz/6.jpg) | <img src="ruta/a/tu/imagen_consulta.png" width="400"> |
+| ![Login](./Img_Interfaz/4.jpg) ![Registro](./Img_Interfaz/6.jpg) | ![Consultar](./Img_Interfaz/9.jpg) | ![Login](./Img_Interfaz/5.jpg) ![Login](./Img_Interfaz/7.jpg) ![Login](./Img_Interfaz/8.jpg)
 
-| Búsqueda Avanzada | Gestión de Perfil |
+| Búsqueda Avanzada, Favoritos | Gestión de Perfil y Preferencias|
 |:---:|:---:|
-| <img src="ruta/a/tu/imagen_busqueda.png" width="400"> | <img src="ruta/a/tu/imagen_perfil.png" width="400"> |
+| ![busqueda](./Img_Interfaz/11.jpg) ![Favoritos](./Img_Interfaz/10.jpg) ![Historial](./Img_Interfaz/12.jpg) | ![Login](./Img_Interfaz/4.jpg) |
 
 *(Nota: Las imágenes representan la interfaz funcional desarrollada en Windows Forms)*
 
