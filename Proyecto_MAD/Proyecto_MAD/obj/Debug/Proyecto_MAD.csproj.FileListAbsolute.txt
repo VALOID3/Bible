@@ -1,0 +1,167 @@
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe.config
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.AssemblyReference.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.ConsultarBiblia.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.InicioSesion.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.GestionUsuarios.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Properties.Resources.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.GenerateResource.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.CoreCompileInputs.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.exe
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Favoritos.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\segundo parcial\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Historial.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe.config
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.AssemblyReference.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.ConsultarBiblia.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Favoritos.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Historial.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.InicioSesion.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.GestionUsuarios.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Properties.Resources.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.GenerateResource.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.CoreCompileInputs.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.exe
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.busqueda.resources
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe.config
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.pdb
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.AssemblyReference.cache
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.busqueda.resources
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.ConsultarBiblia.resources
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Favoritos.resources
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Historial.resources
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.InicioSesion.resources
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.GestionUsuarios.resources
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Properties.Resources.resources
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.GenerateResource.cache
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.CoreCompileInputs.cache
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.exe
+C:\Users\52813\source\repos\Proyecto_MAD 2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe.config
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.AssemblyReference.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.busqueda.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.ConsultarBiblia.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Favoritos.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Historial.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.InicioSesion.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.GestionUsuarios.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Preferencias.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Properties.Resources.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.GenerateResource.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.CoreCompileInputs.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.exe
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINLA V2\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.EDIT_DELETEUser.resources
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe.config
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.pdb
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.AssemblyReference.cache
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Busqueda.resources
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.ConsultarBiblia.resources
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Editar_BorrarUsuario.resources
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Favoritos.resources
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Historial.resources
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.InicioSesion.resources
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.AgregarUsuario.resources
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Preferencias.resources
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Properties.Resources.resources
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.GenerateResource.cache
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.CoreCompileInputs.cache
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.exe
+C:\Users\52813\source\repos\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe.config
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.AssemblyReference.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Busqueda.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.ConsultarBiblia.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Editar_BorrarUsuario.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Favoritos.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.HistorialBusqueda.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.InicioSesion.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.AgregarUsuario.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Preferencias.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Properties.Resources.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.GenerateResource.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.CoreCompileInputs.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.exe
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V5\Proyecto_MAD 4\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.pdb
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe.config
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.pdb
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.AssemblyReference.cache
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Busqueda.resources
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.ConsultarBiblia.resources
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Editar_BorrarUsuario.resources
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Favoritos.resources
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.HistorialBusqueda.resources
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.InicioSesion.resources
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.AgregarUsuario.resources
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Preferencias.resources
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Properties.Resources.resources
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.GenerateResource.cache
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.CoreCompileInputs.cache
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.exe
+C:\Users\52813\source\repos\Proyecto_MAD 6\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe.config
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.AssemblyReference.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Busqueda.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.ConsultarBiblia.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Editar_BorrarUsuario.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Favoritos.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.HistorialBusqueda.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.InicioSesion.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.AgregarUsuario.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Preferencias.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Properties.Resources.resources
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.GenerateResource.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.CoreCompileInputs.cache
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.exe
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.pdb
+D:\Documentos\SEMESTRE AGOSTO-DICIEMBRE 2023\MODELO DE ADMINISTRACION DE DATOS\tercer parcial\PIA FINAL V7\Proyecto_MAD 7\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.CambioContraseña.resources
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe.config
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.pdb
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.AssemblyReference.cache
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Busqueda.resources
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.CambioContraseña.resources
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.ConsultarBiblia.resources
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Editar_BorrarUsuario.resources
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Favoritos.resources
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.HistorialBusqueda.resources
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.InicioSesion.resources
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.AgregarUsuario.resources
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Preferencias.resources
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Properties.Resources.resources
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.GenerateResource.cache
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.CoreCompileInputs.cache
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.exe
+C:\Users\52813\source\repos\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.pdb
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe.config
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.exe
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\bin\Debug\Proyecto_MAD.pdb
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.AssemblyReference.cache
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.exe.config
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Busqueda.resources
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.CambioContraseña.resources
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.ConsultarBiblia.resources
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Editar_BorrarUsuario.resources
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Favoritos.resources
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.HistorialBusqueda.resources
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.InicioSesion.resources
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.AgregarUsuario.resources
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Preferencias.resources
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.Properties.Resources.resources
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.GenerateResource.cache
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.csproj.CoreCompileInputs.cache
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.exe
+E:\Mis Documentos\SEMESTRE ENERO-JUNIO 2024\MAD\MAD-055-1873789-AndreaReyna-2034261-ArmandoHernandez\Proyecto_MAD\Proyecto_MAD\obj\Debug\Proyecto_MAD.pdb
